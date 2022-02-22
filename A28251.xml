@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The warnings of the Lord to the King of England and his Parliament as they were wrote and sent by his servant, George Bishope.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28251</idno>
+            <idno type="STC">Wing B3015</idno>
+            <idno type="STC">ESTC R5711</idno>
+            <idno type="EEBO-CITATION">13085611</idno>
+            <idno type="OCLC">ocm 13085611</idno>
+            <idno type="VID">97300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97300)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 408:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The warnings of the Lord to the King of England and his Parliament as they were wrote and sent by his servant, George Bishope.</title>
+                  <author>Bishop, George, d. 1668.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letters signed by George Bishope with date on which the original was delivered to the King. Some letters name the deliverers: Mary Saunderson, Mary Jones, Elizabeth Baily.</note>
+                  <note>Reproduction of original in Hungtington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97300:1" rendition="simple:additions"/>
+            <pb facs="tcp:97300:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE Warnings of the Lord TO THE King of England AND HIS Parliament.</hi>
+            </p>
+            <p>
+               <hi>As they were Wrote, and Sent, By his Servant,</hi> George Biſhope.</p>
+            <q>Shalt thou Reign becauſe thou cloſeſt thy ſelf in Cedar? Did not thy Father Eat, and Drink, and do Judgment and Juſtice, and then it was well with him? He Judged the Cauſe of the Poor and Needy; then it was well with him. Was not this to know me ſaith the Lord? <bibl>
+                  <hi>Jer.</hi> 22. 15, 16.</bibl>
+            </q>
+            <p>London, <hi>Printed in the Year,</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97300:2"/>
+            <pb n="3" facs="tcp:97300:2" rendition="simple:additions"/>
+            <head>
+               <hi>The Warnings of the Lord,</hi> &amp;c.</head>
+            <div type="letter">
+               <head type="sub">To thee CHARLES STUART King of <hi>England,</hi> am I moved of the Lord to write; and to Thee it is the Viſitation of his Love through him, whoſe travel hath been for Thee, in the depth of my ſpirit, that Thy Soul may be ſaved in the Day of the Lord; Therefore hear, that thy Soul may live, and thy Dayes be prolonged in the Dayes of thy Pilgrimage.</head>
+               <opener>
+                  <salute>FRIEND,</salute>
+               </opener>
+               <p>THou haſt been a man of <hi>Sufferings,</hi> and deep <hi>ſorrows</hi> have paſſed over <hi>thee;</hi> the <hi>Lord</hi> (at length) hath brought <hi>Thee</hi> into a Land of Peace, and ſet <hi>thee</hi> upon <hi>thy</hi> Fathers Throne, and bowed the hearts of the People under <hi>thee;</hi> ſo, and after ſuch a manner, as was beyond the thoughts of <hi>thee,</hi> or <hi>any,</hi> that thus it ſhould be. And now what remaineth, but that <hi>thou love the Lord, and fear before him all thy dayes; that it may be well with thee, and thy poſterity after thee;</hi> and for this purpoſe, that <hi>thou</hi> heed his <hi>Principle</hi> in <hi>thee,</hi> which ſhews the Evil, the End and Compaſs of all <hi>thy</hi> Actions, the thoughts of thy heart, and thy ſecrets upon thy Bed, that ſo out of, and from Tranſgreſſion thou mayeſt come, and be led into the Kingdom of God, which conſiſts in <hi>Righteouſneſs</hi> and <hi>Peace,</hi> and <hi>Joy in the Holy Ghoſt;</hi> and the Bleſſing of God may be on <hi>Thee,</hi> and peace and reſt within thy Borders. For, of this thou art not ignorant, as having largely taſted of the Cup, that <hi>man</hi> ſuffereth for <hi>ſin,</hi> and that <hi>Promotion cometh neither from the Eaſt nor from the Weſt, nor from the North nor from the South;</hi> but God is Judge; he putteth down <hi>one,</hi> and ſetteth up <hi>another;</hi> who is come to ſet his King upon his holy Hill of <hi>Sion;</hi> his P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inciple in <hi>Man</hi> to reign for ever; Unto which men ſhall bring the force of the <hi>Gen<g ref="char:EOLhyphen"/>tiles;</hi> and their Kings ſhall be brought, and the glory of <hi>Lebanon</hi> ſhall come; the <hi>Fir-tree,</hi> and the <hi>Pine-tree,</hi> and the <hi>Box-tree</hi> (men of all ſorts) together, to beautifie the place of his Sanctuary, who
+<pb n="4" facs="tcp:97300:3" rendition="simple:additions"/> will make the place of his feet glorious: and the Nation and King<g ref="char:EOLhyphen"/>dom that will not <hi>ſerve,</hi> it ſhall <hi>periſh;</hi> yea, thoſe Nations ſhall be <hi>utterly waſted,</hi> and the Sons of thoſe that <hi>afflicted</hi> it ſhall come <hi>bending unto it,</hi> and all thoſe that <hi>deſpiſed it</hi> ſhall <hi>bow themſelves down</hi> at the ſoles of its feet; and they ſhall call it <hi>The City of the Lord, the Si<g ref="char:EOLhyphen"/>on of the Holy One of Iſrael;</hi> and whereas it hath been <hi>forſaken</hi> and <hi>hated,</hi> ſo that no man paſſed through it, he will make it an <hi>Eternal Excellency,</hi> a <hi>Joy of many Generations,</hi> it ſhall alſo ſuck the Milk of the <hi>Gentiles;</hi> and the Breaſts of <hi>Kings,</hi> and it ſhall know that the Lord <hi>is its Saviour</hi> and <hi>Redeemer,</hi> the Mighty One of <hi>Jacob.</hi> In its dayes <hi>Judah</hi> ſhall be ſaved, and <hi>Iſrael</hi> dwell ſafely, and the Name by which it ſhall be called, <hi>is The Lord our Righteouſneſs;</hi> and it ſhall no more be ſaid, <hi>The Lord liveth which brought the children of Iſrael out of the Land of Egypt,</hi> but <hi>The Lord liveth which brought up, and which led the Seed of the houſe of Iſrael out of the North-Country, and from all Countries whither the Lord had driven them; and they ſhall dwell in their own Land, the Lord hath ſpoken it.</hi> And the day is come wherein the Lord hath raiſed unto <hi>David</hi> a <hi>Righteous Branch,</hi> and a King <hi>raigneth</hi> and <hi>proſpereth</hi> that executes <hi>Juſtice</hi> and <hi>Judgement</hi> in the Earth, whoſe Dominion is an <hi>Everlaſting</hi> Dominion, and his Kingdom that which ſhall not <hi>paſs away,</hi> in which <hi>Thou</hi> mayeſt <hi>Raign</hi> and <hi>Live for Ever.</hi> Moved of the Lord God Almighty, the maker of Heaven and Earth, who hath ſeen thine <hi>Affliction</hi> and <hi>Ad<g ref="char:EOLhyphen"/>verſity,</hi> and delivered thee in much Bowels of Love, am I thus to write, whom the world in ſcorn calls, <hi>Quaker,</hi> but am known by the Name.</p>
+               <closer>
+                  <signed>George Biſhope.</signed>
+                  <dateline>
+                     <hi>Briſtol,</hi> 
+                     <date>the 27<hi rend="sup">th</hi> of the 4<hi rend="sup">th</hi> Moneth, 1660.</date> Give this to the King.</dateline>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Original of this was delivered into the Kings Hand at</hi> White Hall <hi>by</hi> Mary Saunderſon.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:97300:3" rendition="simple:additions"/>
+               <head>
+                  <hi>To the King of</hi> England, <hi>theſe are from the Movings of the Lord, in Love and Pity to warn him to take heed how he hath to do in Baniſhing the Friends of Truth, called</hi> Quakers, <hi>or in making Laws againſt them, or in Suffering ſuch as do, or in Signing ſuch Bills, or Yeelding to them, or ſuffering them to Paſs, or to become Laws, or to be Executed upon them, ſo as that they are Baniſhed this Land, or Removed out of this Nation, or Cauſed ſo to be, or otherwiſe to Suffer,</hi>
+               </head>
+               <p>FRom the Lord God of Heaven and Earth, the Almighty, am I moved to write, and to Thee it is the Word of the Lord, <hi>Signe them not, nor Conſent unto them;</hi> For thou kneweſt the heart of a Stranger, when thou waſt an <hi>Exile</hi> in other Countries, and <hi>wander<g ref="char:EOLhyphen"/>edſt</hi> from one Nation to another People, ſeeking <hi>rest</hi> and finding none; and thine Enemies were great and many, and thou waſt diſ<g ref="char:EOLhyphen"/>appointed in all thou undertookeſt, and thou couldeſt not proſper, nor was there a reaſonable ground of Hope as to Man, that ever thy Exilement ſhould return, eſpecially ſo as it is now, and ſo ſoon as now, and ſo great and large as now, even beyond the Glory of thy Progenitors; yet this the Lord did for thee when thou waſt <hi>low,</hi> and <hi>little</hi> in thine own Eyes, and when, of <hi>Thy People,</hi> there were none to <hi>deliver</hi> Thee; and he heard thy <hi>Cryes,</hi> and thy <hi>Groans,</hi> and thy <hi>Sighes,</hi> who waſt a <hi>Man of Sorrows,</hi> and acquainted with <hi>Grief,</hi> and <hi>Delivered thee,</hi> and <hi>placed thee</hi> upon the Throne of theſe <hi>Nations,</hi> and <hi>bowed them</hi> unto <hi>thee,</hi> and hath kept them <hi>under;</hi> ſo that no evil <hi>occurrent</hi> that could <hi>hurt thee</hi> hath fallen out unto thee, ſince thou firſt put'ſt thy foot on the <hi>Engliſh</hi> Shoare upon thy <hi>Returne,</hi> and on thy <hi>bended knees</hi> ſpakeſt unto the Lord, and gaveſt <hi>thanks</hi> unto him that had done this for Thee.</p>
+               <p>Now in the <hi>ſence</hi> of this, it is good for thee to <hi>abide</hi> and <hi>remaine</hi> alwayes; ſo the <hi>remembrance</hi> of the Lord will be <hi>near</hi> thee, who hath done <hi>all</hi> this for thee, and thy heart will be ſtill <hi>tender</hi> to thoſe who are in <hi>ſuch</hi> a <hi>condition</hi> as thou waſt, and ſo far from putting <hi>others there</hi> (even the <hi>Innocent,</hi> of whom thou haſt a <hi>Witneſs</hi> in thee, that
+<pb n="6" facs="tcp:97300:4" rendition="simple:additions"/> they are <hi>Innocent</hi> as to thee, <hi>viz.</hi> the People of the Lord called <hi>Quakers,</hi> to <hi>Baniſh,</hi> and to <hi>do otherwiſe</hi> unto whom, thou art now cal<g ref="char:EOLhyphen"/>led upon) which can never be blotted out, that thou wilt not be at <hi>reſt</hi> till thou haſt <hi>relieved</hi> ſuch as are in the condition of theſe; and <hi>ſo</hi> the <hi>Bleſſing</hi> of God will be upon thee, <hi>as</hi> thou continueſt to <hi>do</hi> to others as he hath <hi>done</hi> to thee; and <hi>increaſe</hi> of kindneſs, and <hi>large<g ref="char:EOLhyphen"/>neſs</hi> of Love wilt thou <hi>receive</hi> of him, as thou <hi>meaſureſt</hi> back again unto others, unto his People, as he hath <hi>meaſured</hi> unto thee; and ſo thou remembreſt the Lord.</p>
+               <p>And <hi>this</hi> (as I have ſaid) will be good for thee to <hi>do,</hi> that it may be <hi>well</hi> with thee as to the Lord, who is able to <hi>pull thee down</hi> as he hath <hi>ſet thee up,</hi> and by a <hi>fire unblown</hi> to <hi>conſume</hi> thee; ſhould<g ref="char:EOLhyphen"/>eſt thou <hi>forget</hi> the Lord, and all his Benefits which he hath ſhewed unto thee, and his large loving-kindneſs beyond all that have gone before thee?</p>
+               <p>Now as to us, <hi>Behold!</hi> we are in the hand of the Lord, and we feel his Arm and Power with us, who will never <hi>leave us,</hi> nor <hi>for<g ref="char:EOLhyphen"/>ſake us,</hi> who put our truſt in him, and his <hi>Preſence</hi> will be enough for us, where-ever he ſuffers us to be ſent or put, or however to <hi>ſuffer,</hi> who is Lord of Heaven and Earth, whom we have proved and tried, and found ſo to us all our dayes, ſince we were a People, and he hath born us through all hitherto, and will do to the end, all that abide with him; and ſo we are not in conſultation, nor is this ſent to beſpeak any thing from thee beſides the Will and Pur<g ref="char:EOLhyphen"/>poſe of the Lord, whoſe Will we are come to do, and to glorify his Name in the world, and to ſhew that he is with us, as we ſhall be put to it, to glorify his Name, who hath delivered our Souls from the Pit, and our Lives from deſtruction, and hath cauſed us to hear the Voyce of Joy and Gladneſs, ſo that the Bones that he hath bro<g ref="char:EOLhyphen"/>ken do rejoyce, and we rejoyce to do his Will, in doing or ſuf<g ref="char:EOLhyphen"/>fering whatſoever is his Will we ſhould do or ſuffer, without whoſe ſufferance we know nothing can be done unto us; and we feel him who is the <hi>Rock of Ages,</hi> who is able yea and will uphold us who truſt in him. But it is for thy ſake I write, and in Love to thee, and tender Compaſſion as I am moved of the Lord, that thou mayeſt not do the thing that may make him repent of all his kind<g ref="char:EOLhyphen"/>neſs to thee-wards, and provoke him to <hi>undo</hi> thee, as he hath <hi>made thee up.</hi> For certainly, if thou ſhalt do this thing, and ſeek to re<g ref="char:EOLhyphen"/>move
+<pb n="7" facs="tcp:97300:4" rendition="simple:additions"/> and root out, and otherwiſe to ſuffer ſuch a Body of many thouſands of Families in theſe Nations, of us who fear the Lord, who are Natural <hi>Engliſh,</hi> and have a Natural Right, as much as any to reſide and be in our Native Country, and to enjoy our Liberties and Eſtates, as to the Lord, free; whom thou foundeſt here, when thou cameſt in, thy <hi>Friends,</hi> and ſuffering by them who were thy <hi>Enemies,</hi> and who have not been (nor are) in <hi>Thought,</hi> in <hi>Word,</hi> or in <hi>Deed</hi> otherwiſe ſince thy coming in; but deſiring the welfare of thy Soul and Body (which we do deſire) and of thy Domini<g ref="char:EOLhyphen"/>ons, and are Peaceable in the Land, as the Lord is Witneſs, and that of him in thy Conſcience: this the Lord will take ill at thy hands, and he hath moved me to tell thee ſo, and will prove thy <hi>Ruine;</hi> and it is better for thee to have <hi>all the World,</hi> than the <hi>Lord</hi> thine <hi>Enemy,</hi> and upon ſuch an account, as in the behalf of an <hi>In<g ref="char:EOLhyphen"/>nocent People,</hi> Suffering ſo <hi>by Thee.</hi> And this we would not have on any hand as to thee, may it ſo ſtand in the will of God, and there<g ref="char:EOLhyphen"/>fore hath he moved me to write thus unto thee, whoſe <hi>pitty</hi> is to thee, that thou mayeſt not do that which will cauſe his hand to be againſt thee.</p>
+               <p>And ſo in the <hi>Bowels</hi> of the <hi>Lord,</hi> and even in <hi>Tears</hi> of <hi>Compaſ<g ref="char:EOLhyphen"/>ſion</hi> to thy <hi>Soul</hi> and <hi>Body,</hi> to thy <hi>Dominions</hi> and <hi>People</hi> do I write, who have my <hi>Witneſs</hi> with the Lord, and ſhall have <hi>in</hi> Thee, that I ſeek thy <hi>welfare,</hi> and that in <hi>this thing,</hi> which will leave thee <hi>with<g ref="char:EOLhyphen"/>out Excuſe</hi> in the Day of the Lord, if thou <hi>hearken not.</hi> For which cauſe, even that it may be <hi>well with thee,</hi> it is written in the <hi>Movings</hi> of the <hi>Lord,</hi> through</p>
+               <closer>
+                  <signed>His <hi>Servant</hi> and Thy <hi>Friend,</hi> who truly deſires the <hi>Well<g ref="char:EOLhyphen"/>fare</hi> of thy <hi>Soul</hi> and <hi>Body</hi> in <hi>this</hi> World, and <hi>that</hi> which is to come. George Biſhope.</signed>
+                  <dateline>
+                     <hi>Briſtol,</hi> 
+                     <date>the 2<hi rend="sup">d</hi> of the 1<hi rend="sup">ſt</hi>
+                        <g ref="char:punc">▪</g> Moneth, 1661/2:</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Original of this was delivered into the Kings Hand, by</hi> Mary Saunder<g ref="char:EOLhyphen"/>ſon <hi>aforeſaid.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:97300:5" rendition="simple:additions"/>
+               <head>
+                  <hi>To the King of</hi> England.</head>
+               <opener>
+                  <salute>FRIEND,</salute>
+               </opener>
+               <p>THink it not enough for thee, or ſufficient, or that it will ex<g ref="char:EOLhyphen"/>cuſe thee before the Lord, that thou haſt not <hi>Signed</hi> the Bill for the <hi>Baniſhment</hi> of his People <hi>Thy Self,</hi> but haſt <hi>appointed Com<g ref="char:EOLhyphen"/>miſſioners;</hi> for what they have <hi>done,</hi> they <hi>did it</hi> by <hi>Authority</hi> of <hi>Thee,</hi> and by thy <hi>Commiſſion;</hi> ſo what thy Commiſſioners have <hi>done Thou</hi> haſt <hi>done,</hi> and what <hi>Thou</hi> haſt <hi>done,</hi> thy Commiſſioners have <hi>done,</hi> and ſo the Lord God looks upon it, and will require it of Thee.</p>
+               <p>And now, <hi>Friend,</hi> let me a little reaſon with thee, and give the <hi>Sufferers</hi> leave to ſpeak concerning this matter. What have the People called <hi>Quakers</hi> done unto Thee, thy Soul or Body, thy Crown or Dignity ſince they were a People, and ſince thou haſt had footing lately in this Nation, that thou thus dealeſt with them? What is their Offence, what's their Crime, that they ſhould be thus diſpoiled of their Natural Right to reſide and be in their Na<g ref="char:EOLhyphen"/>tive Country, and be thus dealt with contrary to Nature?</p>
+               <p>Haſt thou not <hi>proved</hi> them and <hi>tried</hi> them? and upon <hi>proof</hi> and <hi>trial,</hi> haſt thou found the leaſt <hi>Spot</hi> or <hi>Iota</hi> in <hi>them</hi> of <hi>Rebellion,</hi> as to Thee, of <hi>Diſaffection,</hi> of <hi>Offence?</hi> Have not <hi>Times tried</hi> them? Have not <hi>Priſons?</hi> Have not <hi>Sufferings?</hi> Have not <hi>great</hi> and <hi>ſor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sufferings</hi> tried them when they ſo <hi>ſuffered</hi> and yet were without <hi>Of<g ref="char:EOLhyphen"/>fence</hi> as to God and Man? Had a Spirit of <hi>Rebellion</hi> lodged in them, a ſpirit of <hi>Revenge</hi> or <hi>Diſſatisfaction</hi> as to Thee; Alas! what could be expected, but that, as Men, who perfectly underſtand their own <hi>Liberty,</hi> and knew how, as Men, to engage for it, they ſhould rather <hi>dye,</hi> and put <hi>all</hi> to the <hi>hazzard</hi> at one Shock to <hi>end</hi> their <hi>Sufferings</hi> either on or in the Earth, then to be continually <hi>Offered up,</hi> as it were, <hi>They,</hi> their <hi>Wives, Children</hi> and <hi>Relations, Eſtates</hi> and <hi>Families,</hi> to the unlimitted <hi>rage</hi> and <hi>wickedneſs</hi> of <hi>Men,</hi> and to the <hi>changable<g ref="char:EOLhyphen"/>neſs</hi> of <hi>Dayes</hi> (which hath alwayes hung over them after this man<g ref="char:EOLhyphen"/>ner) to do with them what they pleaſed?</p>
+               <pb n="9" facs="tcp:97300:5" rendition="simple:additions"/>
+               <p> And yet they have a Witneſs with the Lord, and alſo among Men, that had they ſtood it out as men (as they might have done) unto which they were <hi>courted,</hi> and that not a little; Thou had'ſt hardly, if at all (at leaſt, with more difficulty) have ſet foot on this Nation; but they refuſed, chooſing rather to leave the iſſue to the Lord (as to their <hi>Liberty,</hi> which ſeemed, as to men, more then probably gon) as to what ſhould befall them, then to take part with thine <hi>Enemies</hi> againſt thee; and to appear (as indeed they did) rather in the naked ſimplicity of their <hi>Innocency,</hi> as to thee, as their <hi>Sword</hi> and <hi>Buckler,</hi> then with a <hi>Created Weapon,</hi> or ſuch like <hi>Proviſion,</hi> to beſpeak, or cover them; and how they have alwayes appeared after this manner to this day before thee, thou knoweſt; and they have a <hi>Witneſs</hi> in thee which can never be <hi>blotted</hi> out, <hi>viz.</hi> That they are <hi>Innocent,</hi> and have, and do deſire really in their hearts as much <hi>Good will</hi> to thee, thy <hi>Proſperity</hi> and <hi>Wellfare,</hi> thy <hi>Soul</hi> and <hi>Body,</hi> thy <hi>Crown</hi> and <hi>Dignity,</hi> as thou canſt wiſh.</p>
+               <p>The ſence whereof, and the Witneſs of which in thee, is that which hath made thee ſo to them as thou haſt been, and to ſpeak ſo freely to them of their <hi>Liberty,</hi> and to Promiſe them <hi>in the Word of a King;</hi> And, <hi>Ye have the Word of a King for it—You ſhall not ſuf<g ref="char:EOLhyphen"/>fer for your Opinion,—</hi>or words to that purpoſe, which without any pre-deſire of theirs, thou haſt ſpoken to them.</p>
+               <p>And for this (as they certainly know, and it hath been ſealed upon them by the Spirit of the Lord, unto whom they give the Praiſe and Glory) thou haſt not been without a <hi>Reward</hi> from the hand of the Lord, who hath covered thee, and preſerved thee ſo, as no Ene<g ref="char:EOLhyphen"/>my hath been able indeed to put thee to it, or ſo as conſider<g ref="char:EOLhyphen"/>ably to trouble thee, though thou came in on ſuch a tickliſh foot as thou knoweſt, and though the matter of ſo many hundreds of thou<g ref="char:EOLhyphen"/>ſands (who in their hearts think themſelves aggrieved by thee, and in the capacity of Ruine, or are already ſo) within theſe Na<g ref="char:EOLhyphen"/>tions, might hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> put thee to it; ſo as thou haſt hid his Outcaſts, and been a hiding place for them, and a Covert from the face of the <hi>Spoiler,</hi> and haſt let his Outcaſts dwell with thee, he hath been a hiding-p<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to thee, and a Covert from the face of them who would <hi>r<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> up againſt thee,</hi> and <hi>ſpoile</hi> thee, whom he hath <hi>bou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d under,</hi> and not hitherto ſuffered to <hi>riſe up againſt thee,</hi> ſo as to <hi>hurt thee,</hi> or to put ſo much as a <hi>divertiſement</hi> from that <hi>Refreſhing</hi> which the
+<pb n="10" facs="tcp:97300:6" rendition="simple:additions"/> Lord hath given thee from all thy <hi>Troubles.</hi>
+               </p>
+               <p>And indeed, this they could deſire (in the Will of the Lord, or if the Lord ſo pleaſe) <hi>That this might be thy portion for ever;</hi> Viz. <hi>Peace within thy Walls, and Proſperity within thy Pallaces</hi> in this World, and in that which is to come, <hi>Life Everlaſting.</hi> For on this foot they are, and have been, and ſhall be ever found to be (through the grace of the Lord) <hi>viz. To pray for their Enemies</hi> (much more for <hi>Thee,</hi> who haſt been ſo <hi>friendly</hi> to them) <hi>to do good to thoſe that hate them; to bleſs them that Perſecute them,—That ſo they may appear to be the Children of their heavenly Father; who cauſ<g ref="char:EOLhyphen"/>eth his Rain to rain, and his Sun to ſhine, on the Juſt and the Unjuſt:</hi> and that his <hi>Dominion</hi> alſo may be made manifeſt in them, in being <hi>
+                     <g ref="char:V">Ʋ</g>nmovable</hi> in all their <hi>Sufferings.</hi>
+               </p>
+               <p>This <hi>was,</hi> and <hi>is</hi> their ſtate as to thee, and from <hi>this</hi> have they not <hi>declined,</hi> to the Right hand or to the Left, or <hi>ſwerved</hi> in the leaſt, God is <hi>Witneſs,</hi> and his <hi>Witneſs</hi> in <hi>Thee</hi> will <hi>teſtifie</hi> to them<g ref="char:punc">▪</g> How is it then (if I may ſo Reaſon with thee, and ſuffer me to do it, for I am moved to it of the Lord) that thou <hi>now</hi> thus <hi>dealeſt</hi> with them? What's their <hi>Crime?</hi> What is their <hi>Offence</hi> (as I have ſaid) more now then heretofore? (who were, and are without <hi>Of<g ref="char:EOLhyphen"/>fence</hi> or <hi>Fault,</hi> as to thee) VVherein are they <hi>changed?</hi> (as thou thinkeſt, if ſo be yet thou doſt ſo think, &amp; they are not apt to believe that thou thinkeſt ſo, upon whatſoever grounds thou haſt done this, becauſe the <hi>Witneſs</hi> of God, they believe, in thee is otherwiſe) or, are they at all <hi>changed</hi> from what they were as to thee, that thou art ſo <hi>changed</hi> from what thou waſt unto them? Or wherein have they given thee Cauſe to be <hi>Otherwiſe</hi> to them then thou haſt been, or to <hi>Break</hi> thy <hi>Promiſes</hi> and <hi>Free Engagements</hi> to them? They would wil<g ref="char:EOLhyphen"/>lingly underſtand, and it concerns them to ſeek it, and they deſire it of thee, if there be any ſuch thing, or if it be ſo ſuppoſed by thee; that they might make their <hi>Defence,</hi> and not ſuffer as <hi>Evil Doers,</hi> who are <hi>Innocent;</hi> and if they are not <hi>Evil-doers,</hi> why are they made to <hi>Suffer?</hi> At leaſt in the <hi>underſtanding</hi> of People, who hear of their <hi>Baniſhment,</hi> they will be ſuppoſed <hi>ſo to be,</hi> becauſe ſo <hi>great a Suffering</hi> ſuppoſes an <hi>Offence</hi> proportionable to the <hi>Suffering,</hi> or that deſerves ſuch a <hi>Suffering;</hi> therefore it is but <hi>Equal</hi> and <hi>Right</hi> what they deſire, and not to be denied by thee.</p>
+               <p>If they are not <hi>changed,</hi> but are the <hi>ſame</hi> ſtill in thy Judgement,
+<pb n="11" facs="tcp:97300:6" rendition="simple:additions"/> and that they are <hi>guilty</hi> of no <hi>other thing,</hi> or are no <hi>otherwiſe guilty</hi> then they appeared at firſt, and have all along unto thee; that is to ſay, That they are the <hi>ſame</hi> perſons in <hi>Judgement</hi> and <hi>Pra<g ref="char:EOLhyphen"/>ctiſe</hi> as they were at firſt, and have been ſtill, becauſe of which (that is to ſay) as <hi>Innocent as to thee,</hi> and their <hi>Liberty</hi> conſiſting in thy <hi>Underſtanding</hi> with thy <hi>Rule</hi> and <hi>Government</hi> (why elſe didſt thou ſo promiſe them? why elſe haſt thou been ſo unto them?) thou ſo promiſed'ſt, and haſt been ſo unto them. If theſe things be ſo (and ſo they are) how then comes this to be?</p>
+               <p>Thinkeſt thou that the Lord doth not <hi>ſee?</hi> that the God of <hi>Jacob</hi> doth not <hi>regard? He that planted the Eare, ſhall he not hear? He that formed the Eye, ſhall he not ſee? He that Chaſtiſeth the Heathen, ſhall he not Correct? He that teacheth man knowledge, ſhall he not know?</hi> Is it a ſmall matter thus to deal with an <hi>Innnocent People?</hi> Will not the Lord <hi>regard</hi> it? Will not he <hi>conſider</hi> it? Can he <hi>look</hi> upon it <hi>(who is of purer Eyes than to behold Evil and cannot look upon Iniqui<g ref="char:EOLhyphen"/>ty)</hi> and not <hi>require</hi> it? Did he <hi>require</hi> it of this Generation, who turned from the Lord, what they <hi>did</hi> to <hi>Thee;</hi> and will he not <hi>require</hi> of <hi>Thee</hi> what thou <hi>doſt</hi> to <hi>them</hi> who are turned to the Lord? <hi>Shall not the Judge of the whole Earth do right?</hi> Can the <hi>Judge</hi> of the whole Earth do otherwiſe then <hi>Right? Will he not Judge the Earth with Righteouſneſs, and the People with Truth?</hi> And commeth he not to <hi>do it,</hi> and <hi>to render unto every man according to his Deeds?</hi> And will not <hi>this</hi> be <hi>heavy</hi> for thee in the <hi>Day</hi> of <hi>Account, wherein every one ſhall be rewarded as his work ſhall be?</hi>
+               </p>
+               <p>In the fear of God, <hi>mind</hi> and <hi>conſider,</hi> for he hath done <hi>much</hi> for thee, and <hi>much</hi> will he require of thee. Thy <hi>welfare</hi> I deſire, and for that cauſe do I write, not to <hi>remove Sufferings</hi> from thoſe Peo<g ref="char:EOLhyphen"/>ple in the <hi>Will of God</hi> (for they are made willing to <hi>ſerve</hi> his <hi>Will</hi> in <hi>doing</hi> or <hi>ſuffering,</hi> as I have written to thee) or to <hi>beſpeak</hi> them, as to thee, <hi>free</hi> from <hi>ſuffering</hi> otherwiſe then in the <hi>Will</hi> of God, whom they <hi>reverence</hi> and <hi>fear;</hi> or for any thing of that Nature: I ſay again, do I thus write, but in <hi>tenderneſs</hi> to thee; For when the Lord cometh to <hi>reckon,</hi> this will be <hi>hard</hi> for thee. And this I know aſſuredly from the Lord, and I have his VVord for it, who hath moved me to write, and he hath moved me to write, that thou mayeſt yet with-hold the <hi>Execution</hi> of <hi>Suffering</hi> upon them, which if thou doſt not, but ſhalt ſuffer theſe things to be, the Lord will be
+<pb n="12" facs="tcp:97300:7" rendition="simple:additions"/> thine <hi>Enemy;</hi> and he will withdraw from thee, as he hath been with thee, and will let looſe that againſt thee, which he hath hitherto kept from thee, and thou wilt be made deſolate.</p>
+               <closer>
+                  <signed>George Biſhope.</signed>
+                  <dateline>
+                     <hi>Briſtol,</hi> 
+                     <date>the 6<hi rend="sup">th</hi> of the 3<hi rend="sup">d</hi> Moneth, 1662.</date>
+                  </dateline>
+               </closer>
+               <trailer>
+                  <hi>To the King of</hi> England, <hi>theſe.</hi>
+               </trailer>
+            </div>
+            <div type="letter">
+               <head>To the <hi>KING</hi> of <hi>England,</hi> theſe.</head>
+               <opener>
+                  <salute>FRIEND,</salute>
+               </opener>
+               <p>
+                  <hi>THere is but a Minute between thee, and the breaking forth of the</hi> fierce Anger <hi>of the Lord againſt thee, if thou</hi> Releaſe <hi>not preſently his</hi> People, <hi>who ſorely ſuffer by thee in noyſome</hi> Goals, <hi>and that unto Death. Moved of the Lord I am to write this to Thee, who am</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Thy</hi> Friend <hi>who truly</hi> Loves <hi>Thee.</hi> George Biſhope.</signed>
+                  <dateline>Briſtol, <date>
+                        <hi>the 5th. of the 10th. Moneth,</hi> 1662.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>This was wrote when multitudes of Friends were Impriſoned, eſpecially in <hi>Newgate London,</hi> where many died through the Inhumanities of the Goal; being ſo many put together, that there was not room to lodge one by another on the Ground, and Infection grew through want of Room and Liberty; Shortly after the Deli<g ref="char:EOLhyphen"/>very of which, an Order was granted, by which theſe in <hi>Newgate London</hi> had their Liber<g ref="char:EOLhyphen"/>ty.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="13" facs="tcp:97300:7" rendition="simple:additions"/>
+               <head>To the King and his both Houſes of Parliament, This is the Word of the Lord.</head>
+               <opener>
+                  <salute>Friends,</salute>
+               </opener>
+               <p>YE ſtand in a ſlippery place, whileſt ye take upon ye to meddle with his <hi>Dominion</hi> who lives <hi>for Ever.</hi> For the <hi>Conſcience</hi> he hath placed in Man as his particular <hi>Witneſs,</hi> and his <hi>Seat</hi> through all Generations, who hath given the <hi>Earth</hi> unto the Children of Men. So ſee what ye do in this particular, for if ye <hi>ſet free</hi> that which only can be <hi>bound by him,</hi> and not make Men to <hi>ſuffer</hi> for their <hi>freedome</hi> of <hi>Conſcience,</hi> you are upon a <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oot</hi> which will <hi>preſerve you</hi> for ever, and <hi>perpetuate</hi> your <hi>ſtation</hi> to all Generations; for <hi>herein</hi> the Lord will be <hi>with you,</hi> and <hi>preſerve your ſtation;</hi> whileſt you ſtand with him; and he being <hi>with you,</hi> who can be <hi>againſt you?</hi> For his <hi>Preſence makes the Earth to tremble, and the Iſles to be afraid; and the Mountains to leap, and the little Hills to skip, and the Sea to be driven back, whileſt he makes a way for his Ranſomed to paſs over. Therefore fear and tremble before the Lord God of Hoſts, who divideth the Sea, and it is driven back; who maketh the Waters to ſtand as up<g ref="char:EOLhyphen"/>on heaps, who declareth to man his thought; The Lord of Hoſts is his Name.</hi> And let his <hi>Dread</hi> be upon you, ſo you will be kept, and his particular <hi>Rule</hi> will be in your <hi>Conſcience,</hi> and his <hi>Dominion</hi> ſet up, who is Lord of all; and ſo ye will be preſerved from <hi>intrenching</hi> on his <hi>Soveraignty,</hi> when he as <hi>Soveraign rules</hi> in you, and from <hi>encroach<g ref="char:EOLhyphen"/>ing</hi> on his <hi>Prerogative,</hi> when it is your <hi>Prerogative</hi> to rule with the Lord; and from being at a ſtand what is his <hi>Will,</hi> when in you his <hi>Will Rules;</hi> and the Bleſſing of God will be upon you, whileſt you <hi>Rule</hi> with God, and your <hi>Rule is his Will.</hi> For here hath been the Undoing of Men in all Generations, and that which hath Ruined Kingdoms and Nations. Another thing then the <hi>Will of God</hi> hath been their <hi>Rule,</hi> which God being <hi>againſt,</hi> and that thing againſt God, a VVar hath been, and God being the ſtronger, they have come to nought. For, <hi>Who would ſet the Briars and Thorns againſt me</hi>
+                  <pb n="14" facs="tcp:97300:8" rendition="simple:additions"/> 
+                  <hi>in Battel?</hi> (ſaith the Lord) <hi>I would go thorow them, I would burn them together.</hi> So then the Intereſt of Kings and Nations, of Go<g ref="char:EOLhyphen"/>vernments, and Rulers of Kingdoms and People, and their Peace and Proſperity, is the <hi>Will of God,</hi> and to <hi>do that</hi> which is <hi>well-plea<g ref="char:EOLhyphen"/>ſing to him;</hi> that ſo it may be well with them, and their Poſte<g ref="char:EOLhyphen"/>rity after them, and the Earth may give forth its increaſe, <hi>and God even our God may bleſs us,</hi> and give us every good thing. And ſo your Proſperity I wiſh, who am moved of the Lord thus to write unto you, and whoſe Word it is.</p>
+               <closer>
+                  <signed>George Biſhope.</signed>
+                  <dateline>
+                     <hi>Briſtol,</hi> 
+                     <date>the 14<hi rend="sup">th</hi> of the 12<hi rend="sup">th</hi> Moneth, 1662.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Contents of this was Printed, and Delivered at the Door of each Houſe of Parliament to tbe Members, and alſo to the King.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>To the King of</hi> England, <hi>Theſe.</hi>
+               </head>
+               <opener>
+                  <salute>FRIEND,</salute>
+               </opener>
+               <p>BY thy late <hi>Declaration</hi> thou haſt ſet thy ſelf upon the Stage of the World, and all Eyes are upon thee to ſee what thou wilt do, and it concerns thee to endeavour the uttermoſt of what thou haſt ſpoken; and if thou wilt, who ſhall let thee? For <hi>Liberty of Conſcience</hi> being allowed to all <hi>Profeſſions</hi> of <hi>Religion</hi> without reſtri<g ref="char:EOLhyphen"/>ction, as it is a thing moſt Natural, ſo it will prove moſt conducing to the Peace and ſafety of thy <hi>Dominions,</hi> and in order to the Pre<g ref="char:EOLhyphen"/>ſervation of thy <hi>Renown</hi> to all Generations, and thy Welfare for ever. And this I am moved of the Lord to write unto thee, that he expects this at thy hands, ſeeing that through all <hi>Profeſſions</hi> of <hi>Reli<g ref="char:EOLhyphen"/>gions</hi> (which kept thee out) he brought thee in upon thy <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> from <hi>Breda,</hi> of <hi>Liberty of Conſcience</hi> to all <hi>Profeſſions</hi> of <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> which on thy part thou haſt enjoyed, that is to ſay, Thy full
+<pb n="15" facs="tcp:97300:8" rendition="simple:additions"/> ſettlement on the Throne of thy Fathers, beyond that of thy Pro<g ref="char:EOLhyphen"/>genitors, and ſhould be on theirs; beſides it is the due homage, and ſubjection thou oweſt to him who is Lord of all; whoſe is <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> as his particular <hi>Dominion,</hi> who is Lord of <hi>Conſcience.</hi> And this I have further to ſay to thee from the Lord; That on this foot ſtands thy Welfare, and Proſperity for ever; for under the deepeſt Obli<g ref="char:EOLhyphen"/>gation that can be, thou art to <hi>God,</hi> and <hi>Man</hi> in this Particular; <hi>To God,</hi> who hath <hi>done</hi> all this for thee, beyond thy hopes, whoſe Lord<g ref="char:EOLhyphen"/>ſhip it is; <hi>To Man,</hi> who hath <hi>ſuffered</hi> it to <hi>be,</hi> in hope of this, and upon thy <hi>Promiſe,</hi> whoſe is the <hi>Right.</hi> Now for thee to <hi>vary</hi> or <hi>de<g ref="char:EOLhyphen"/>cline</hi> from <hi>this,</hi> to <hi>both,</hi> or <hi>either,</hi> will render thee the <hi>moſt miſerable</hi> of <hi>Men,</hi> as to God, who <hi>ſees in ſecret</hi> the <hi>thoughts</hi> and <hi>intents</hi> of thy <hi>heart,</hi> who will give unto thee <hi>according to thy Deeds;</hi> as to Man, who will not <hi>believe</hi> thee; and thy <hi>Faith</hi> and <hi>Reputation</hi> being <hi>loſt,</hi> in ſuch a weighty matter as this, what wilt thou do in the day when <hi>ſorrows</hi> and <hi>diſtreſs</hi> ſhal attend thee <hi>every where,</hi> and <hi>Deſpairation</hi> lead the <hi>forlorn</hi> of all thy <hi>Undertakings?</hi> And this I would not have, the Lord is my Witneſs, for my <hi>Love</hi> is <hi>truly</hi> to thee, and therefore as moved of the Lord, do I write; for ſuch will be the <hi>Concomitants</hi> of thy <hi>Variation</hi> from this; It is the Word of the Lord, And ſo the Lord God Eternal open thine Eyes, and let thee ſee in this thy <hi>Day</hi> the <hi>things</hi> that <hi>belong</hi> unto <hi>thy Peace.</hi> It is the <hi>Prayer</hi> of him who is in <hi>due ſence</hi> of thy <hi>Condition,</hi> and of what is <hi>near,</hi> for the hour is <hi>great.</hi> And ſo I am clear of thee thus far in the ſight of the Lord, whoſe <hi>Proſperity</hi> I wiſh.</p>
+               <closer>
+                  <signed>George Biſhop.</signed>
+                  <dateline>
+                     <hi>Briſtol,</hi> 
+                     <date>the 22<hi rend="sup">th</hi> of the 11<hi rend="sup">th</hi> Moneth 1662.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Original, of which this is a Coppy, was delivered into the hand of the King at</hi> White Hall, <hi>by</hi> Eli<g ref="char:EOLhyphen"/>zabeth Baily, <hi>it being wrote and ſent upon his Se<g ref="char:EOLhyphen"/>cond Declaration for</hi> Liberty of Conſcience, <hi>which was after he came from</hi> Breda <hi>into</hi> England.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="16" facs="tcp:97300:9" rendition="simple:additions"/>
+               <head>To the <hi>King</hi> and his both <hi>Houſes of Parliament</hi> once more am I moved of the Lord to write, and indeed bear with me, and let it not ſeem grievous unto you, what I have to ſay, for it is in Love.</head>
+               <opener>
+                  <salute>FRIENDS,</salute>
+               </opener>
+               <p>THe Lord hath determined to keep his <hi>Throne</hi> in the <hi>Conſciences</hi> of Men, and whoſoever they are that ſhall ſeek to put him <hi>out</hi> there, thoſe will the Lord put <hi>out,</hi> and they that endeavour to <hi>Juſtle</hi> him there, them will he <hi>Juſtle,</hi> and they ſhall <hi>know</hi> that he is <hi>The Lord.</hi> Therefore, <hi>my Dear Friends,</hi> in <hi>Bowells</hi> of <hi>Love</hi> I beſeech you have not a <hi>hand</hi> in any ſuch thing, leſt his wrath break out againſt you, and his fury take hold of you, and there be no Remedy. For from the Lord God of Hoaſts have I received it, and whatſoever may come of it as to me for ſo doing, which I leave to the Lord, I muſt be faithful unto you, and teſtifie it; yea, woe would be unto me if I did it not; if you do ſo, ſo it will be; it is the Word of the Lord. Therefore my <hi>Dear Friends,</hi> I again beſeech you in the ten<g ref="char:EOLhyphen"/>dereſt expreſſion of <hi>Love</hi> that poſſible can flow from a heart that is well affected to you (whoſe welfare I deſire) ſtrike not at the <hi>Rock of Ages</hi> in this, leſt he <hi>daſh you to pieces.</hi> It is the Word of the Lord. And ſo I have finiſhed what I have to ſay to you in the name of the Lord.</p>
+               <closer>
+                  <signed>George Biſhope.</signed>
+                  <dateline>
+                     <hi>Briſtol,</hi> 
+                     <date>the 14<hi rend="sup">th</hi> of the 1<hi rend="sup">ſt.</hi> Moneth, 1662/<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Copies of the Original of this, word for word, were delivered the King, and the Speakers of both Houſes, written and Sealed by</hi> Mary Jones.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="17" facs="tcp:97300:9" rendition="simple:additions"/>
+               <head>To the <hi>King</hi> and both Houſes of <hi>Parliament,</hi> Thus ſaith the <hi>Lord.</hi>
+               </head>
+               <p>
+                  <hi>MEddle not with my People becauſe of their</hi> Conſcience <hi>to me, and</hi> Baniſh <hi>them not out of the</hi> Nation <hi>becauſe of their</hi> Con<g ref="char:EOLhyphen"/>ſcience, <hi>for</hi> if you do, <hi>I will ſend my</hi> Plagues <hi>upon you, and ye ſhall know that</hi> I am the Lord.</p>
+               <closer>
+                  <signed>Written in Obedience to the Lord, by his Servant George Biſhope.</signed>
+                  <dateline>Briſtol, <date>
+                        <hi>the 25<hi rend="sup">th</hi> of the 9<hi rend="sup">th</hi> Moneth,</hi> 1664.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>The very Day that the next were ſent out of <hi>Newgate, London,</hi> in order to <hi>Ba<g ref="char:EOLhyphen"/>niſhment,</hi> the long ſore <hi>Plague</hi> brake out in <hi>London,</hi> over againſt the Houſe of one of thoſe who that day was ſent from <hi>Newgate</hi> aforeſaid, into Baniſh<g ref="char:EOLhyphen"/>ment, whoſe Name is <hi>Edward Bruſh,</hi> who was ſent to <hi>Jamaico.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>To the King of</hi> England; <hi>Theſe.</hi>
+               </head>
+               <opener>
+                  <salute>FRIEND,</salute>
+               </opener>
+               <p>THou goeſt the wrong way to work, and that which in the <hi>End</hi> will prove thy <hi>Ruine.</hi> Thou ſhouldſt not deal thus with us who are not thine <hi>Enemies,</hi> but in <hi>thought</hi> and <hi>deed</hi> deſire thy <hi>welfare.</hi> How many <hi>Women</hi> (in a manner) art thou making <hi>Widowes,</hi> and their <hi>Children Fatherleſs?</hi> How art thou ſhipping them off their Native Country, and rendring them as the <hi>worſt</hi> of <hi>Men,</hi> and the <hi>moſt miſerable</hi> of <hi>Mankind?</hi> who in no other thing are <hi>offenſive</hi> to thee, or do <hi>tranſgreſs</hi> thy <hi>Lawes,</hi> then as to their <hi>Conſcience</hi> to <hi>God,</hi> in relation to his <hi>Worſhip,</hi> who will be <hi>worſhipped</hi> in <hi>Spirit</hi> and in <hi>Truth; and ſuch Worſhippers the Father ſeeks to worſhip him.</hi> How art thou going to <hi>undo</hi> thouſands of <hi>Families</hi> in this Nation, becauſe of their <hi>Obedience</hi> to him, who dare not do otherwiſe leſt they ſhould
+<pb n="18" facs="tcp:97300:10" rendition="simple:additions"/> 
+                  <hi>diſpleaſe</hi> him that gives them their <hi>Being?</hi> How art thou rendring thy Dominion <hi>Monſtrous,</hi> and thy Rule among men very <hi>unreaſon<g ref="char:EOLhyphen"/>able,</hi> who wilt not <hi>do unto other men, what thou wouldeſt be done unto thy ſelf;</hi> who wouldeſt not be <hi>ſo done unto,</hi> as thou <hi>doſt to others</hi> thy ſelf? Thou knoweſt the heart of a <hi>Stranger,</hi> and haſt been an <hi>Exile</hi> thy ſelf; Thou knoweſt what it <hi>coſt</hi> thee, and <hi>how ill</hi> thou tookeſt <hi>it</hi> at their hand that <hi>thus did</hi> to thee, though they pretended a <hi>Cauſe</hi> wherefore they ſo <hi>did it;</hi> How comes it to paſs that thou haſt ſo ſoon <hi>forgotten</hi> thine <hi>Old Eſtate,</hi> which not long ſince thou waſt ſo <hi>diſpleaſed</hi> with, that thou art putting <hi>Innocent Men,</hi> and thy <hi>Friends</hi> without a <hi>Cauſe</hi> (as to God) on that which Thou and thy Lawes call <hi>Tranſportation</hi> and <hi>Baniſhment?</hi> I am grieved in my heart for thee, becauſe I have loved thee, and deſired in my heart thy well<g ref="char:EOLhyphen"/>fare, I could weep for thee day and night, if ſo be thereby thou mighteſt be made ſenſible; I am under a deep load of affliction, and am even ready to ſink for thy ſake, in conſideration of what is com<g ref="char:EOLhyphen"/>ing upon thee; I am in great bitterneſs for thy Day, I am even diſ<g ref="char:EOLhyphen"/>treſſed with ſorrow, becauſe the Mighty God is coming againſt thee, and he whoſe is <hi>Conſcience,</hi> and the <hi>dominion</hi> thereof, who will be <hi>worſhipped</hi> as he pleaſeth, not as thou wilt, is <hi>brandiſhing</hi> his <hi>Sword</hi> againſt thee, and will <hi>lay</hi> thee <hi>deſolate.</hi> Therefore yet let my words have enterance into thine Eares, and what I ſpeak unto thee prove of Effect; ſtay thy Steps, and withdraw thine hand from us, meddle not with us, leſt the Anger of the Lord break forth upon thee and there be no remedy. I am not as thoſe who hide things in corners, and withhold from thee what are the thoughts of my heart, but as one who would have it as well with thee as thou canſt deſire thy ſelf, who would have all evil turned from thee, and that length of Dayes and Proſperity might attend thee for Ever. So have I written, and in nothing could I prove my faithfulneſs ſo unto thee then in ſo doing; for I am ſenſible of the Lords <hi>Anger</hi> againſt thee for this thing, and his <hi>Fury,</hi> which will take hold of thee if thou ſhalt not deſiſt; and therefore, as at all other times ſince thy <hi>Return,</hi> I have taken the Opportunity both by Writing and otherwiſe, to ſignifie unto thee what I have ſeen from the Lord, as to this thing, which (for ought I ever heard, thou haſt friendly received, ſo in this, being weighed in my ſpirit, and in deed diſtreſs and ſorrow for thee, I could no leſs, being moved of the Lord, and required of
+<pb n="19" facs="tcp:97300:10" rendition="simple:additions"/> him) then to diſcharge my ſelf once more to thee, deſiring for thy ſake, that what I have here written may have place with thee, that the <hi>Anger</hi> of the Lord <hi>burn</hi> not ſo againſt thee that there be none to <hi>quench it.</hi> And ſo I commit what I have ſaid to the Lord, to do by it and me, whatever may ſeem good in his ſight; who have no other end in all this, but in Obedience to the Lord to clear my <hi>Conſcience</hi> as to thee, who know nothing of an outward Sword, or any ſuch thing, when I ſo ſpeak, but only the <hi>diſpleaſure of the Lord,</hi> which I am ſure is <hi>near</hi> thee; who can create thee <hi>trouble</hi> as he thinks <hi>fit,</hi> which I would not have upon thee, and therefore have I written, who am,</p>
+               <closer>
+                  <signed>Thy <hi>Friend,</hi> though a <hi>Sufferer</hi> at thy hands. George Biſhope.</signed>
+                  <dateline>
+                     <hi>Briſtol,</hi> 
+                     <date>the 23<hi rend="sup">d</hi>. of the 2<hi rend="sup">d</hi>. Moneth, 1665.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Original of this was delivered into the Kings Own Hand by</hi> Mary Jones.</p>
+               </postscript>
+               <trailer>
+                  <hi>To the King of</hi> England <hi>theſe.</hi>
+               </trailer>
+            </div>
+            <div type="letter">
+               <head>To the King of <hi>England,</hi> This is the Word of the Lord.</head>
+               <p>
+                  <hi>THink not becauſe I have given thee</hi> dominion <hi>over the</hi> Dutch, <hi>that thou ſhalt eſcape my hand, if thou</hi> continue <hi>to</hi> ſend away <hi>my</hi> People, <hi>whom thy Lawes have condemned to be</hi> Baniſhed <hi>their</hi> Na<g ref="char:EOLhyphen"/>tive Countrey. <hi>For, if thou</hi> doeſt, <hi>I will ſend my</hi> Plagues <hi>on thee,</hi> and thou ſhall know, that I am the Lord.</p>
+               <closer>
+                  <signed>
+                     <hi>Written in Obedience to the</hi> Lord <hi>by his</hi> Servant, George Biſhope.</signed>
+                  <dateline>Briſtol, <date>
+                        <hi>16<hi rend="sup">th</hi>. 4<hi rend="sup">th</hi>.</hi> Moneth, 1665.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>This was wrote a little after the firſt Engagement with the <hi>Dutch,</hi> wherein <hi>Opdam</hi> their Ad<g ref="char:EOLhyphen"/>miral was blown up, and the Original thereof the King received in <hi>James</hi> Park, from the the hand of <hi>Elizabeth Baily.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:97300:11"/>
+            <pb facs="tcp:97300:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
